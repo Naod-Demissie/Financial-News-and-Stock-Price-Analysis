@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+
+spacy
+nltk
+gensim
+wordcloud
+textblob
+transformers
+
+ipykernel
+
