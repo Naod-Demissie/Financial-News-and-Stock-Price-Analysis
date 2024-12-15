@@ -14,3 +14,7 @@ transformers
 
 ipykernel
 
+yfinance
+TA-Lib
+PyNance
+mplfinance
