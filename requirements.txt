@@ -16,5 +16,5 @@ ipykernel
 
 yfinance
 TA-Lib
-PyNance
+pynance
 mplfinance
