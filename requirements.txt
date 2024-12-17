@@ -18,3 +18,5 @@ yfinance
 TA-Lib
 pynance
 mplfinance
+
+torch
