@@ -18,3 +18,5 @@ yfinance
 TA-Lib
 PyNance
 mplfinance
+
+torch
